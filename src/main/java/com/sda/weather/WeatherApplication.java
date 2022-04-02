@@ -1,4 +1,4 @@
-package com.sda;
+package com.sda.weather;
 
 public class WeatherApplication {
     public static void main(String[] args) {
